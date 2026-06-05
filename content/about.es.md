@@ -12,13 +12,14 @@ Algunos datos sobre mí:
 - Me encanta leer sobre cosas técnicas
 - La interfaz de [GNOME](https://www.gnome.org) es mi favorita de todos los sistemas operativos.
 - Tengo una pequeña obseción con encontrar la laptop perfecta... algún día.
-- Mi "home-server" es una laptop del 2012.
-- Mi banda músical favorita cambia al menos una vez al mes.
+- Mi "[home-server](https://github.com/jhxnnat/server)" es una laptop del 2012.
+- Mi canción y banda musical favorita cambia al menos una vez al mes.
 - Suelo recolectar enlaces y contenido de la internet.
 
 **Contacto:**
 - fedi: [@jhxnnat@mastodon.social](https://mastodon.social/@jhxnnat)
-- email: JhonaDav@proton.me
+- email: [JhonaDav@proton.me](mailto:JhonaDav@proton.me)
 - matrix: @jhxnnat:matrix.org
 - codeberg: [https://codeberg.org/jhxnnat](https://codeberg.org/jhxnnat)
 - github: [https://github.com/jhxnnat](https://github.com/jhxnnat)
+- discord: jhonataciturno

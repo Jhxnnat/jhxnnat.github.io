@@ -2,16 +2,8 @@
 
 {% block content %}
 
-<div class="home">
-	<p>Hi, I'm Jhona. I like to do various sort of things and write about that.</p>
-	<p>Here you will find <a href="/blog">blogs</a>, sometimes long form sometimes just short notes; updates about my sister's and I <a href="/minecraft">Minecraft forever world</a>; and collections of links, to read from different places on the web.</p>
-	<h1>What I've been working on lately</h1>
-	<ul>
-		<li><a href="https://github.com/jhxnnat/red">A toy text editor I made</a></li>
-		<li><a href="https://github.com/jhxnnat/ublue-bluefin-niri">Bluefin image one day I'll daily drive</a></li>
-		<li><a href="https://github.com/jhxnnat/strlib">sds inspired me to make this string library</a></li>
-		<li><a href="https://github.com/jhxnnat/website">This website</a></li>
-	</ul>
+<div class="content">
+	{{ section.content | safe }}
 </div>
 
 {% endblock content %}
