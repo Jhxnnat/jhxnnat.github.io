@@ -9,6 +9,7 @@ build_search_index = false
 
 author = "Jhona"
 generate_feeds = true
+feed_filenames = ["feed.xml"]
 
 [markdown]
 render_emoji = false
