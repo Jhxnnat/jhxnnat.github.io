@@ -11,5 +11,5 @@ Here you will find <a href="/blog">blogs</a>, sometimes long form sometimes just
 - [A toy text editor I made](https://github.com/jhxnnat/red)
 - [Bluefin image one day I'll daily drive](https://github.com/jhxnnat/ublue-bluefin-niri)
 - [sds inspired me to make this string library](https://github.com/jhxnnat/strlib)
-- [This website](https://github.com/jhxnnat/website)
+- [This website](https://codeberg.org/jhxnnat/website)
 
