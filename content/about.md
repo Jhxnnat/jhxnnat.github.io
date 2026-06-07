@@ -18,7 +18,7 @@ My interest are technology (specially ethical tech, let it be hardware or softwa
 
 **Contact:**
 - fedi: [@jhxnnat@mastodon.social](https://mastodon.social/@jhxnnat)
-- email: [JhonaDav@proton.me](mailto:JhonaDav@proton.me)
+- email: [jhonadav@tutamail.com](mailto:Jhonadav@tutamail.com)
 - matrix: @jhxnnat:matrix.org
 - codeberg: [https://codeberg.org/jhxnnat](https://codeberg.org/jhxnnat)
 - github: [https://github.com/jhxnnat](https://github.com/jhxnnat)
