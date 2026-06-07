@@ -1,6 +1,11 @@
+@font-face {
+  font-family: terminalGrotesque; /* set name */
+  src: url(./fonts/terminal-grotesque.ttf); /* url of the font */
+}
+
 * {
-  font-size: 18px;
-  // font-family: 'Inter';
+  font-size: 24px;
+  font-family: terminalGrotesque, serif;
   background-color: transparent;
   color: black;
 }
