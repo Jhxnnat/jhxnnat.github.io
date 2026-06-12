@@ -2,6 +2,7 @@
 title = "Story of my Minecraft Forever World"
 date = 2026-05-10
 author = "Jhona"
+description = "A server with my friends became my minecraft forever world"
 +++
 
 In December of 2025, some friends of mine, *Mono* and *Luencaro*, came to visit to the town. As always, we started the classic ephemeral Minecarft server that has a expiration date before it's been created. Normally the server would just last as long as the visit duration, but this time we were discussing about actually making this our forever world. We played for hours almost every day, we built farm, bases, I even had a war with one of my friends who's the one who knows most redstone.

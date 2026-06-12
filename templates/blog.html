@@ -10,7 +10,7 @@
 		{% for page in section.pages %}
 		<li>
 			<a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-			<p class="small">{{ page.date }}</p>
+			<p class="small">{{ page.date }} | {{ page.description }}</p>
 		</li>
 		{% endfor %}
 	</ul>
