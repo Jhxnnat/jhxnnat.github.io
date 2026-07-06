@@ -8,8 +8,7 @@ Here you will find <a href="/blog">blogs</a>, sometimes long form sometimes just
 
 # Things I've made or been working on lately
 
-- [C string library inpired by sds](https://github.com/jhxnnat/strlib)
 - [A toy text editor I made](https://github.com/jhxnnat/red)
+- [C string library inpired by sds](https://github.com/jhxnnat/strlib)
 - [This website](https://github.com/jhxnnat/website)
-
 

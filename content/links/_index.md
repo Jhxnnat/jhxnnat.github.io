@@ -5,5 +5,5 @@ template = "blog.html"
 page_template = "blog-page.html"
 +++
 
-Here I post weekly Links of thing I've visited on the web.
+Sometimes I will put a bunch of links here.
 

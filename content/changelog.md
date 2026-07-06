@@ -8,6 +8,10 @@ description = "list of changes to the website"
 - add changelog page
 - week 24 of 2026 links page
 - new 88x31 buttons: join the fediverse, internet archive, ublock origin
-
 - add now page
 - and other minor changes
+
+# 2026-07-05
+- new colors
+- now the page is not forced to be centered
+- updated /about and /uses

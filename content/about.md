@@ -12,7 +12,6 @@ My interest are technology (specially ethical tech, let it be hardware or softwa
 - I love to read about technical stuff.
 - [GNOME](https://wwww.gnome.org) is my favorite ui ever of all operating systems.
 - I have an obsession with finding the perfect laptop... one day.
-- My "[home-server](https://github.com/jhxnnat/server)" is a 2012 laptop.
 - My favorite song and music group changes at least once a month.
 - I use to collect lots links and content from the web.
 
