@@ -1,0 +1,20 @@
+---
+title: changelog
+description: list of changes to the website
+---
+
+## 2026-10-03
+- moving to 11ty - https://www.11ty.dev/
+- remove styles (for now)
+
+## 2026-06-11
+- add changelog page
+- week 24 of 2026 links page
+- new 88x31 buttons: join the fediverse, internet archive, ublock origin
+- add now page
+- and other minor changes
+
+## 2026-07-05
+- new colors
+- now the page is not forced to be centered
+- updated /about and /uses
