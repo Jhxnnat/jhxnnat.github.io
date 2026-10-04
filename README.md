@@ -1,6 +1,6 @@
 # Jhxnnat's website
 
-website made mainly using markdown, httml and css, rendered with [zola](https://www.getzola.org/).
+Made with [Eleventy](https://www.11ty.dev/)
 
 # Acknowledgments
 
