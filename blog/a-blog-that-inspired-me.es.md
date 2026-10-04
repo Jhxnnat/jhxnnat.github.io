@@ -1,7 +1,9 @@
-+++
-title = "Un blog que me inspiró a crear este"
-date = 2026-05-09
-+++
+---
+title: Un blog que me inspiró a crear este
+date: 2026-05-09
+---
+
+# {{title}}
 
 El día de ayer estaba haciendo mi tipico ~~doomscroll~~ paseo por Mastodon cuando me topé con este blog llamado [just put it on your blog](https://shellsharks.com/just-put-it-on-your-blog). Es un post corto que deberías leer, pero en resumen el autor habla de que deberías dejar en un blog las cosas que quieres compartir, sin importar lo que sea: una nota, un pensamiento cualquiera, un recuerdo de un sueño, algo que te gusta o algo que odias mucho, o incluso alguna receta. No tiene que ser nada especial o escrito de la forma más elegante, simplemente algo que compartir a lo que puedas volver en algún momento.
 
