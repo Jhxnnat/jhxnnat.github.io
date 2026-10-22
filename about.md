@@ -1,5 +1,6 @@
 ---
 title: About
+layout: index-layout.njk
 ---
 
 # {{title}}

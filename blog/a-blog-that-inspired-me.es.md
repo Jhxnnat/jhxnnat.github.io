@@ -1,6 +1,7 @@
 ---
 title: Un blog que me inspiró a crear este
 date: 2026-05-09
+layout: index-layout.njk
 ---
 
 # {{title}}

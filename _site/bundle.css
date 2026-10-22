@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'terminal-grotesque';
+    src: url('./static/fonts/terminal-grotesque.ttf') format('woff2');
+}
+
+:root {
+    font-family: 'terminal-grotesque', sans-serif;
+    font-size: 1.75em;
+}
+
+body {
+    display: flex;
+    margin: 0;
+    background-color: #EEEEEE;
+}
+
+.sidebar {
+    border-right: 1px solid #CCCCCC;
+    padding: 8px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+}
+
+.content {
+    padding: 12px;
+}

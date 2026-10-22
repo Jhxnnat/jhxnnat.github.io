@@ -1,11 +1,11 @@
 ---
-title = "Home"
-template = "index.html"
+title: Home
+layout: index-layout.njk
 ---
 
 Hi, I'm Jhona. If I feel like, I'll post something here.
 
-**Things I've made or been working on lately**
+**Things I've made or been working on lately:**
 
 - [A toy text editor I made](https://github.com/jhxnnat/red)
 - [C string library inpired by sds](https://github.com/jhxnnat/strlib)

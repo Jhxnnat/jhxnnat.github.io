@@ -1,6 +1,4 @@
 +++
-title = "Mis Blogs"
-sort_by = "date"
-template = "blog.html"
-page_template = "blog-page.html"
+title: Mis Blogs
+layout: index-layout.njk
 +++

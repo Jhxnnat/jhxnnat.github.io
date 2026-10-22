@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Made with [Eleventy](https://www.11ty.dev/)",
+  "main": "eleventy.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhxnnat/website.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Jhxnnat/website/issues"
+  },
+  "homepage": "https://github.com/Jhxnnat/website#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.7"
+  }
+}

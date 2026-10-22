@@ -2,6 +2,7 @@
 title: A blog that inspired me to create this one
 date: 2026-05-09
 tags: blog
+layout: index-layout.njk
 ---
 
 # {{title}}

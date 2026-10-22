@@ -4,6 +4,7 @@ date: 2026-05-10
 author: Jhona
 description: A server with my friends became my minecraft forever world
 tags: minecraft
+layout: index-layout.njk
 ---
 
 # {{title}}

@@ -1,5 +1,6 @@
 ---
 title: Minecraft
+layout: index-layout.njk
 ---
 
 ## {{title}} Post

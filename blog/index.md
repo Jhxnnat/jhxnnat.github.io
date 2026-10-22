@@ -1,5 +1,6 @@
 ---
 title: Blogs
+layout: index-layout.njk
 ---
 
 ## {{title}} Posts

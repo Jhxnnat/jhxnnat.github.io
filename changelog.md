@@ -1,7 +1,12 @@
 ---
 title: changelog
 description: list of changes to the website
+layout: index-layout.njk
 ---
+
+## 2026-10-22
+- new nice-websites links
+- a sidebar wow!
 
 ## 2026-10-03
 - moving to 11ty - https://www.11ty.dev/

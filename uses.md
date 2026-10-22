@@ -2,6 +2,7 @@
 title: Uses
 date: 2026-06-08
 description: Tech I use
+layout: index-layout.njk
 ---
 
 # {{title}}
